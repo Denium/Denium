@@ -5,6 +5,11 @@
 
 ##
 
+  <div align="center">
+    <a href="https://github.com/Denium">
+    <img height="203em" src=https://github-readme-stats-sigma-five.vercel.app/api?username=denium&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </div>
+
   <div style="display: inline_block"><br>
     <img align="center" alt="Denium-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Denium-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
